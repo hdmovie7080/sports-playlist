@@ -1,14 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Match_Server1" tvg-name="Cricket / Sports Stream 1 by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿" tvg-logo="https://cdn.phototourl.com/member/2026-10-04-0edbf029-8b03-480f-a9a2-d8353f5874c8.png" group-title="Sports", Fox Cricket (Server 1) by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿
-https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Match_Server2" tvg-name="Cricket / Sports Stream 2 by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿" tvg-logo="https://cdn.phototourl.com/member/2026-10-04-0edbf029-8b03-480f-a9a2-d8353f5874c8.png" group-title="Sports", Sports Stream (Server 2) by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿
+#EXTINF:-1 tvg-id="StarSports1HindiHD" tvg-name="Star Sports 1 Hindi HD Digital by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿" tvg-logo="https://cdn.phototourl.com/member/2026-10-04-0edbf029-8b03-480f-a9a2-d8353f5874c8.png" group-title="Sports", Star Sports 1 Hindi HD Digital by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://stream-relay-buddy.lovable.app/api/public/proxy?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar.dplus.tv/26.05.10.2 (Android/14; androidtv)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd|Cookie=hdntl=exp=1792321802~acl=%2f*~id=240a0f7bae3a4a3593b500232358b7ba~data=hdntl~hmac=e86150faa37ec2f4b21e57e4988feb142ea081f426453c2f49f7dbb4024ab355&User-Agent=Hotstar;in.startv.hotstar.dplus.tv/26.05.10.2 (Android/14; androidtv)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
 
-#EXTINF:-1 tvg-id="Match_Server3" tvg-name="Cricket / Sports Stream 3 by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿" tvg-logo="https://cdn.phototourl.com/member/2026-10-04-0edbf029-8b03-480f-a9a2-d8353f5874c8.png" group-title="Sports", Sports Stream (Server 3) by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿
+#EXTINF:-1 tvg-id="StarSports1HD" tvg-name="Star Sports 1 HD Digital by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿" tvg-logo="https://cdn.phototourl.com/member/2026-10-04-0edbf029-8b03-480f-a9a2-d8353f5874c8.png" group-title="Sports", Star Sports 1 HD Digital by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acc7b844fa50775eae013d0c65023b3e:70fcb8c7000f4f88ee236a8eeda07332
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar.dplus.tv/26.05.10.2 (Android/14; androidtv)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd|Cookie=hdntl=exp=1792321887~acl=%2f*~id=cc9e4fcdc355f0f039435d4381617f70~data=hdntl~hmac=65ab59db8dc6e5865663cf3975092efa5119a79c610fbaa33460d5fe820a7202&User-Agent=Hotstar;in.startv.hotstar.dplus.tv/26.05.10.2 (Android/14; androidtv)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+
+#EXTINF:-1 tvg-id="StarSports1TamilHD" tvg-name="Star Sports 1 Tamil HD Digital by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿" tvg-logo="https://cdn.phototourl.com/member/2026-10-04-0edbf029-8b03-480f-a9a2-d8353f5874c8.png" group-title="Sports", Star Sports 1 Tamil HD Digital by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar.dplus.tv/26.05.10.2 (Android/14; androidtv)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd|Cookie=hdntl=exp=1792322130~acl=%2f*~id=77d9cf9c1ec774281fc6bb63e69c79f4~data=hdntl~hmac=71a714e48f4090dd593a3ab56349786eafef9c66681257a14193045237310335&User-Agent=Hotstar;in.startv.hotstar.dplus.tv/26.05.10.2 (Android/14; androidtv)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+
+#EXTINF:-1 tvg-id="StarSports1KannadaHD" tvg-name="Star Sports 1 Kannada HD Digital by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿" tvg-logo="https://cdn.phototourl.com/member/2026-10-04-0edbf029-8b03-480f-a9a2-d8353f5874c8.png" group-title="Sports", Star Sports 1 Kannada HD Digital by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar.dplus.tv/26.05.10.2 (Android/14; androidtv)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd|Cookie=hdntl=exp=1792322715~acl=%2f*~id=870aaebbfd1e2037dc4e3b5724906f9f~data=hdntl~hmac=c32271d391367492da9832943eaf2ab0ddafe2ef85475af6235bf98ba8d020e9&User-Agent=Hotstar;in.startv.hotstar.dplus.tv/26.05.10.2 (Android/14; androidtv)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+
+#EXTINF:-1 tvg-id="StarSports1TeluguHD" tvg-name="Star Sports 1 Telugu HD Digital by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿" tvg-logo="https://cdn.phototourl.com/member/2026-10-04-0edbf029-8b03-480f-a9a2-d8353f5874c8.png" group-title="Sports", Star Sports 1 Telugu HD Digital by 𝗔𝗯𝘂 𝗕𝗮𝗸𝗸𝗮𝗿
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar.dplus.tv/26.05.10.2 (Android/14; androidtv)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd|Cookie=hdntl=exp=1792322760~acl=%2f*~id=da55202c99b4840e4f2021ff16ffb0b0~data=hdntl~hmac=b493f237445ed9d1675873c51bb98113c7842a2a2f5aa8a8f873298c0636f59b&User-Agent=Hotstar;in.startv.hotstar.dplus.tv/26.05.10.2 (Android/14; androidtv)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
